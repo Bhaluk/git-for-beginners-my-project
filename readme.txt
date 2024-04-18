@@ -1,4 +1,5 @@
 Welcome to my project!
 
-Author: Bhavesh Kansagara
+Author: Bhavesh K. Kansagara
+
 Twitter: @bhaveshkansagara
