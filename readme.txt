@@ -4,4 +4,4 @@ Author: Bhavesh K. Kansagara
 
 Twitter: @bhaveshkansagara
 
-Website: http://8606.weebly.com
+Website: http://www.8606.weebly.com
