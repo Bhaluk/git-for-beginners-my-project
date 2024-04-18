@@ -1,4 +1,4 @@
-Welcome to my project!
+Welcome to the "Git for Beginners" my project!
 
 Author: Bhavesh K. Kansagara
 
